@@ -40,7 +40,7 @@ function App() {
   const team = [
     "Caio Querino Salustriano Marques",
     "Alec Lima Ferreira da Silva",
-    "Joelberth Campista Santos",
+    "Ricardo Gomes de Aquino",
     "Gabriel Viana de Freitas Leão da Costa"
   ];
 
